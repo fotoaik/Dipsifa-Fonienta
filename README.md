@@ -22,4 +22,4 @@ Credits: [Photodentro](https://photodentro.edu.gr/ugc/r/8525/2900?locale=el#)
 ## ΤΥΠΟΣ ΜΑΘΗΣΙΑΚΟΥ ΑΝΤΙΚΕΙΜΕΝΟΥ
 εικόνα, κείμενο, ήχος, βίντεο, διαδραστικά εκπαιδευτικά παιχνίδια
 
-*Τα δίψηφα φωνήεντα © 2023 by [Φωτοπούλου Αικατερίνη](https://fotoaik.eu/) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)*
+[Μαθαίνω τα δίψηφα φωνήεντα](https://photodentro.edu.gr/v/item/ugc/8525/2900) © 2023 by [Φωτοπούλου Αικατερίνη](https://photodentro.edu.gr/ugc/user?userID=4540) is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)
